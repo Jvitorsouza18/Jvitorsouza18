@@ -1,17 +1,3 @@
-Star this repo
-10229
-Fork on GitHub
-2555
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm João Vitor Souza Rocha</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
