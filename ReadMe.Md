@@ -4,7 +4,7 @@ Hi 👋 My name is João Vitor Souza Rocha
 Web FullStack
 --------------------------------------------------------
 
-🌍  I'm based in Três Lagoas-MS-Brasil
+🌍  I'm based in Três Lagoas-MS-Brasil <br>
 ✉️  You can contact me at [jvitorsouza18@gmail.com](mailto:jvitorsouza18@gmail.com)
 
 ### Skills
