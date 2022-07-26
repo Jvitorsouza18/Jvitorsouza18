@@ -1,5 +1,5 @@
 <div align="center">
-Hi 👋 My name is ####João Vitor Souza Rocha
+Hi 👋 My name is João Vitor Souza Rocha
 
 Web FullStack
 --------------------------------------------------------
